@@ -1,0 +1,26 @@
+_repo: Saksanmaa_58142
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Inha, Into Konrad
+    aliases:
+    - Nystrom, Into Konrad
+    - Inha, I. K. (Into Konrad)
+    - Nyström, Into Konrad
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '4411'
+    url: http://www.gutenberg.org/2009/agents/4411
+description: ''
+gutenberg_issued: '2018-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58142'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Saksanmaa
+url: http://www.gutenberg.org/ebooks/58142
